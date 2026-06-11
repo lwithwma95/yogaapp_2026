@@ -1,0 +1,10 @@
+{
+    "agents": [
+        "codex"
+    ],
+    "cloud": true,
+    "skills": [
+        "laravel-best-practices",
+        "deploying-laravel-cloud"
+    ]
+}
